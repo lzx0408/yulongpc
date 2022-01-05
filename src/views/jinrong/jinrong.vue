@@ -14,7 +14,7 @@
             <p>什么是互联网金融与管理?</p>
           </div>
           <div class="what_two">
-              <img width="100%" height="100%" src="@/assets/img/互联网金融与管理/images/Snipaste_2021-12-24_21-56-39.png" alt="">
+              <img width="100%" height="100%" src="@/assets/img/互联网金融与管理/images/互联网金融与管理.jpg" alt="">
           </div>
           <div class="what_thr">
               <p>
@@ -1071,8 +1071,8 @@ export default {
     .zs_left{
       width: 580px;
       height: 530px;
-      /* background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
-      background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_66.jpg);
+      /* background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
+      background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg);
       background-size: 100%;
       position: relative;
     }
@@ -1174,21 +1174,21 @@ export default {
   .two_tp{
     width: 331px;
     height: 228px;
-    background: url(@/assets/img/互联网金融与管理/images/金融与管理pc72.jpg);
+    background: url(../../assets/img/互联网金融与管理/images/金融与管理pc72.jpg);
     background-size: 100%;
     position: relative;
   }
   .to_tp{
     width: 331px;
     height: 228px;
-    background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_77.jpg);
+    background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_77.jpg);
     background-size: 100%;
     position: relative;
   }
   .thr_tp{
     width: 331px;
     height: 228px;
-    background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_79.jpg);
+    background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_79.jpg);
     background-size: 100%;
     position: relative;
   }
