@@ -50,6 +50,11 @@ const routes = [
     component: () => import('@/views/xinmeiti/xinmeiti.vue')
   },
   {
+    path: '/xinnengyuan',
+    name: 'xinnengyuan',
+    component: () => import('@/views/xinnengyuan-cart/xinnengyuan.vue')
+  },
+  {
     path: '/youlong',
     name: '游轮海乘',
     component: () => import('@/views/youlong/youlong.vue')

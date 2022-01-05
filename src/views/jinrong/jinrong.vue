@@ -654,7 +654,7 @@ export default {
     }
     .one{
       width: 1200px;
-      height: 5942px;
+      height: 5540px;
       /* background: sandybrown; */
       margin: 0 auto;
     }
