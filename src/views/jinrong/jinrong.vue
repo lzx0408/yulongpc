@@ -14,7 +14,6 @@
             <p>什么是互联网金融与管理?</p>
           </div>
           <div class="what_two">
-              <img width="100%" height="100%" src="" alt="">
           </div>
           <div class="what_thr">
               <p>
@@ -1071,7 +1070,6 @@ export default {
     .zs_left{
       width: 580px;
       height: 530px;
-      /* background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
       background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg);
       background-size: 100%;
       position: relative;

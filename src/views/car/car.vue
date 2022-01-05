@@ -28,23 +28,19 @@
     </div>
     <div class="what">
       <div class="content">
-        <div style="font-size: 50px">什么是网络新媒体运营?</div>
+        <div style="font-size: 50px">什么是新能源汽车?</div>
         <div style="height: 275px">
           <img
             src="@/assets/VIP地勤/images/Snipaste_2021-12-27_09-03-52.png"
             alt=""
           />
         </div>
-        <div
-          style="
-            height: 90px;
-            font-size: 22px;
-            line-height: 30px;
-            font-weight: 600;
-          "
-        >
-          &nbsp;&nbsp;
-          &nbsp;&nbsp;新媒体运营，是通过现代化引用互联网手段，通过利用抖音、快手、微信、微博、贴吧等新兴媒体平台工具进行产品宣传、推广、产品营销的一系列运营手段。通过策划品牌相关的优质、高度传播性的内容和线上活动，向客户广泛或者精准推送消息，提高参与度，提高知名度，从而充分利用粉丝经济，达到相应营销目的。
+        <div style="font-size: 22px; line-height: 40px; font-weight: 600">
+          &nbsp;&nbsp; &nbsp;&nbsp;新能源电动汽车，英文:(New energy
+          electricvehicles)新能源电动汽车的组成包括：电力驱动及控制系统、驱动力传动等机械系统、完成既定任务的工作装置等。
+          <dd style="line-height: 40px">
+            电力驱动及控制系统是电动汽车的核心，也是区别与内燃机汽车的最大不同点。电力驱动机控制系统由驱动电动机、电源和电动机的调速控制装置等组成。电动汽车的其他装置基本与内燃机汽车相同。
+          </dd>
         </div>
       </div>
     </div>
@@ -415,25 +411,19 @@
         </div>
         <div class="img">
           <div class="left">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-20-22.png"
-              alt=""
-            />
+            <img src="@/assets/img/新能源汽车/新能源汽车pc_03.jpg" alt="" />
           </div>
           <div class="right">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-22-34.png"
-              alt=""
-            /><img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-22-34.png"
+            <img src="@/assets/img/新能源汽车/新能源汽车pc_05.jpg" alt="" /><img
+              src="@/assets/img/新能源汽车/新能源汽车pc_08.jpg"
               alt=""
             /><img
               style="margin-top: 10px"
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-22-34.png"
+              src="@/assets/img/新能源汽车/新能源汽车pc_12.jpg"
               alt=""
             /><img
               style="margin-top: 10px"
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-22-34.png"
+              src="@/assets/img/新能源汽车/新能源汽车pc_14.jpg"
               alt=""
             />
           </div>
@@ -450,55 +440,25 @@
         </div>
         <div class="text">
           <div class="img">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-36-22.png"
-              alt=""
-            />
+            <img src="@/assets/img/新能源汽车/新能源汽车pc_20.jpg" alt="" />
             <div class="img_text">
               就业方向:短视频是用极其短暂的时间完成一个可以传播视频内容，以视频形式......
             </div>
           </div>
           <div class="img">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-36-22.png"
-              alt=""
-            />
+            <img src="@/assets/img/新能源汽车/新能源汽车pc_23.jpg" alt="" />
             <div class="img_text">
               就业方向:短视频是用极其短暂的时间完成一个可以传播视频内容，以视频形式......
             </div>
           </div>
           <div class="img">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-36-22.png"
-              alt=""
-            />
+            <img src="@/assets/img/新能源汽车/新能源汽车pc_28.jpg" alt="" />
             <div class="img_text">
               就业方向:短视频是用极其短暂的时间完成一个可以传播视频内容，以视频形式......
             </div>
           </div>
           <div class="img" style="margin-top: 15px">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-36-22.png"
-              alt=""
-            />
-            <div class="img_text">
-              就业方向:短视频是用极其短暂的时间完成一个可以传播视频内容，以视频形式......
-            </div>
-          </div>
-          <div class="img" style="margin-top: 15px">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-36-22.png"
-              alt=""
-            />
-            <div class="img_text">
-              就业方向:短视频是用极其短暂的时间完成一个可以传播视频内容，以视频形式......
-            </div>
-          </div>
-          <div class="img" style="margin-top: 15px">
-            <img
-              src="@/assets/VIP地勤/images/Snipaste_2021-12-27_10-36-22.png"
-              alt=""
-            />
+            <img src="@/assets/img/新能源汽车/新能源汽车pc_31.jpg" alt="" />
             <div class="img_text">
               就业方向:短视频是用极其短暂的时间完成一个可以传播视频内容，以视频形式......
             </div>
@@ -691,7 +651,7 @@ export default {
 .what {
   margin: 80px auto;
   width: 100%;
-  height: 500px;
+  height: 600px;
   .content {
     width: 1200px;
     height: 100%;
@@ -779,6 +739,7 @@ export default {
         .right {
           flex: 1;
           padding: 35px 25px;
+
           dd {
             margin-top: 20px;
             line-height: 25px !important;
@@ -850,13 +811,17 @@ export default {
       margin-top: 30px;
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-between;
+      justify-content: space-around;
       .img {
-        width: 330px;
-        height: 360px;
+        width: 450px;
+        height: 330px;
         background: #eaeaea;
+        img {
+          width: 100%;
+          height: 230px;
+        }
         .img_text {
-          padding: 0 10px;
+          padding: 20px 10px;
           font-size: 20px;
           line-height: 30px;
         }
