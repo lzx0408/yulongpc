@@ -633,7 +633,7 @@ export default {
     }
 }
 </script>
-<style>
+<style lang="scss" scoped>
  /* @media 类型 and (条件1) and (条件二){
     css样式
 } */

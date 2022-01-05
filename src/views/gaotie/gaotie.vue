@@ -156,7 +156,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .gaotie{
     width:100%;
     height: 100%;
